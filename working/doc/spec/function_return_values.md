@@ -422,7 +422,7 @@ may return any applicable error code.
   **C_GenerateRandom**. It indicates that the token’s random number generator
   has not yet been seeded, or requires re-seeding, by **C_SeedRandom**.
 
-* CKR_SESSION_ASYN**C_NOT**_SUPPORTED: This value is returned if the token
+* CKR_SESSION_ASYNC_NOT_SUPPORTED: This value is returned if the token
   doesn’t support async operations.
 
 * CKR_SESSION_COUNT: This value can only be returned by **C_OpenSession**. It
