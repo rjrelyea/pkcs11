@@ -84,7 +84,7 @@ Parameter set types:
 - CKP_SLH_DSA_SHA2_256S
 - CKP_SLH_DSA_SHAKE_256S
 - CKP_SLH_DSA_SHA2_256F
-- CKP_SLH_DSA_SHAKE_256S
+- CKP_SLH_DSA_SHAKE_256F
             
 ### SLH-DSA public key objects
 
