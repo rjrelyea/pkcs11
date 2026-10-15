@@ -547,6 +547,7 @@ CKM_DES_MAC,0x00000123,mechanisms,spec
 CKM_DES_MAC_GENERAL,0x00000124,mechanisms,spec
 CKM_DES_CBC_PAD,0x00000125,mechanisms,spec
 CKM_RSA_X_509,0x00000003,mechanisms,spec
+CKM_IKE2_PRF_MULTI_KEY_DERIVE,0x0000001e,mechanisms,proposed
 CKM_DES2_KEY_GEN,0x00000130,mechanisms,spec
 CKM_DES3_KEY_GEN,0x00000131,mechanisms,spec
 CKM_DES3_ECB,0x00000132,mechanisms,spec
@@ -569,6 +570,7 @@ CKM_DES_OFB64,0x00000150,mechanisms,spec
 CKM_DES_OFB8,0x00000151,mechanisms,spec
 CKM_DES_CFB64,0x00000152,mechanisms,spec
 CKM_DES_CFB8,0x00000153,mechanisms,spec
+CKM_IKE2_PRF_RESUME_DERIVE,0x00000022,mechanisms,proposed
 CKM_HASH_ML_DSA_SHA224,0x00000023,mechanisms,spec
 CKM_HASH_ML_DSA_SHA256,0x00000024,mechanisms,spec
 CKM_HASH_ML_DSA_SHA384,0x00000025,mechanisms,spec

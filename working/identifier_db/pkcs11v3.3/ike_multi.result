@@ -1,0 +1,13 @@
+In accordance to our standing rules, the following identifiers have been
+allocated for your proposal "Defines Composite Kem and signature mechanisms and parameters sets".
+
+Mechanisms:
+
+ #define CKM_IKE2_PRF_MULTI_KEY_DERIVE 0x0000001eUL
+ #define CKM_IKE2_PRF_RESUME_DERIVE    0x00000022UL
+
+This represents the following changes to your original proposal:
+    CKM_IKE2_PRF_MULTI_KEY_DERIVE was allocated 0x1e because no number was proposed
+    CKM_IKE2_PRF_RESUME_DERIVE was allocated 0x22 because no number was proposed
+
+Please update your spec before sending it to ballot.
